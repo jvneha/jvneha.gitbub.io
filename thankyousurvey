@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title> Thank you! </title>
+<style> 
+  h1 {
+      color: rgb(255,255,255);
+      font-family: monospace;
+     }
+  h2 {
+      color: rgb(200, 0, 60);
+      font-family: monospace;
+     }       
+</style>
+
+<h1>Thank you for voting on your favorite album!</h1>
+
+</html>
